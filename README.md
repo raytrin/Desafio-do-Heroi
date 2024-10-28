@@ -2,7 +2,7 @@
 
 ## Descrição:
 
-Este projeto faz parte do desafio do bootcamp RiHappy e tem como objetivo classificar um herói com base na sua quantidade de XP. De acordo com a experiência acumulada, o herói recebe um dos seguintes níveis: Ferro, Bronze, Prata, Ouro, Platina, Ascendente, Imortal ou Radiante.
+Este projeto faz parte do desafio do bootcamp da DIO e tem como objetivo classificar um herói com base na sua quantidade de XP. De acordo com a experiência acumulada, o herói recebe um dos seguintes níveis: Ferro, Bronze, Prata, Ouro, Platina, Ascendente, Imortal ou Radiante.
 
 ## Funcionalidades:
 
